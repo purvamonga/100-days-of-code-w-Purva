@@ -3,13 +3,12 @@ Hello everyone!
 This repository is more than just code, it’s my commitment to discipline, consistency, and growth. Over the next 100 days, 
 I’ll be learning and practicing in public to stay accountable and build momentum.
 
-**Goals**
-
+**Goals-**
 Build the habit of showing up every day
 Sharpen problem-solving and coding skills
 Stay consistent through public practice
 
-**Plan**
+**Plan-**
 
 I’ll be following Love Babbar’s 450 DSA Questions list and solving at least 2 questions daily.
 
