@@ -1,0 +1,12 @@
+
+*.class
+
+bin/
+build/
+
+.vscode/
+
+
+.DS_Store
+
+*.log
